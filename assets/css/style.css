@@ -80,6 +80,10 @@ h1, h2 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-family: oswald, sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    
 }
 
 /* Sign up */
@@ -109,15 +113,9 @@ h1, h2 {
     color: whitesmoke;
 }
 
-/* Open times table */
+/* Meetup times */
 
-#open {
-    
-    font-family: oswald, sans-serif;
-    text-transform: lowercase;
-    letter-spacing: 2px;
-    color: black;
-}
+
 
 #times {
     background-image:url("../images/meetup-image.jpeg");
@@ -144,5 +142,19 @@ h1, h2 {
 #times h2 {
     color: #fafafa;
 
+}
+
+.social-networks {
+    text-align: center;
+}
+.social-networks > li {
+    display: inline;
+
+}
+.social-networks i {
+    font-size: 160%;
+    margin:1%;
+    padding: 5%;
+    color:#3a3a3a;
 }
 
