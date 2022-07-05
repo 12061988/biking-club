@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Biking Club, Biking Lovers community in Berlin, Germany">
+    <meta name="keywords" content="Biking Club, Biking Lovers community, Berlin, Germany">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Biking Club</title>
+</head>
+<body>
+
+    <section class="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <h2>Let's have a ride : sign up!</h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" required>
+            
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" required>
+            
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+            
+            <label for="city">City</label>
+            <input type="radio" id="city" name="cycling_preference" value="city" required>
+            <label for="outdoor">Outdoor</label>
+            <input type="radio" id="outdoor" name="cycling_preference" value="outdoor" required>
+            <label for="both">Both</label>
+            <input type="radio" id="both" name="cycling_preference" value="both" required>
+            
+            <input class="join-button" type="submit" value="Let's Run!">
+        </form>
+    </section>
+    
+</body>
+</html>

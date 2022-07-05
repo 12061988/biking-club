@@ -62,6 +62,28 @@
     
     <section id="sign-up">
         <h1>Sign Up</h1>
+        <div class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                <h2>Let's have a ride : sign up!</h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" required>
+                
+                <label for="city">City</label>
+                <input type="radio" id="city" name="cycling_preference" value="city" required>
+                <label for="outdoor">Outdoor</label>
+                <input type="radio" id="outdoor" name="cycling_preference" value="outdoor" required>
+                <label for="both">Both</label>
+                <input type="radio" id="both" name="cycling_preference" value="both" required>
+                
+                <input class="join-button" type="submit" value="Let's Ride!">
+            </form>
+        </div>
     </section>
 
     <section id="times">
@@ -73,21 +95,21 @@
             <h3>10:00</h3>
         </div>
         <div>
-            <h2>Trail<i class="fa-solid fa-tree"></i></h2>
+            <h2>Outdoor<i class="fa-solid fa-tree"></i></h2>
             <h3>Thursday</h3>
             <h3>Mauer Weg</h3>
             <h3>20K</h3>
             <h3>15:00</h3>
         </div>
         <div>
-            <h2>Urban<i class="fa-solid fa-city"></i></h2>
+            <h2>Suburbs <i class="fa-solid fa-house-building"></i></h2>
             <h3>Friday</h3>
             <h3>Sport Complex of Humbolt Campus</h3>
-            <h3>15K</h3>
+            <h3>25K</h3>
             <h3>12:00</h3>
         </div>
         <div>
-            <h2>Urban<i class="fa-solid fa-city"></i></h2>
+            <h2>City<i class="fa-solid fa-city"></i></h2>
             <h3>Saturday</h3>
             <h3>Mitte, Wedding</h3>
             <h3>20K</h3>

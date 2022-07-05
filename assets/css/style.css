@@ -89,12 +89,12 @@ h1, h2 {
 /* Sign up */
 
 #sign-up{
-    margin-top: 50px;
+    margin-top: 70px;
     background-color:black ;
-    color: green;
+    color: whitesmoke;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 /* contact footer */
