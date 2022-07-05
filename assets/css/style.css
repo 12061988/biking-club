@@ -188,3 +188,11 @@ h1, h2 {
     height: 150px;
     padding: 0;
 }
+
+#sign-up > div {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 0;
+}
+
