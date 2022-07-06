@@ -84,8 +84,11 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
 ## Bugs
 
-  -
-  -
+  - Impossible to open Am i responsive? although the test works perfectly on Devtools
+  - Google.de refused to open the long Google map link shortened on Bitly
+  
+  <img width="246" alt="Capture d’écran 2022-07-06 à 23 04 38" src="https://user-images.githubusercontent.com/107476894/177643006-93feda39-0f6e-4dae-beb5-5ff58bf1c9ed.png">
+
 
 ## Validators Testing
 
