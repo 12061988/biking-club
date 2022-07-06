@@ -35,9 +35,9 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
 - **The About Us section**  
  
- - The About Us section is a clear and detailed introduction unit where we give the main information about our community.
- - included in a short description of our identity, place, intentions and goal.
- - The user can have concise and precise informations about our activities.
+  - The About Us section is a clear and detailed introduction unit where we give the main information about our community.
+  - included in a short description of our identity, place, intentions and goal.
+  - The user can have concise and precise informations about our activities.
 
 
 <img width="1432" alt="Capture d’écran 2022-07-06 à 20 57 06" src="https://user-images.githubusercontent.com/107476894/177623096-651cf976-15c3-40f0-b465-8b31ca891be0.png">
@@ -45,9 +45,58 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
 - **The Sign Up form** 
 
- - The sign up section collects name, surname, email address
- - There is three buttons where the user's choice can be submit (City, Outdoor or both)
- - Easy interface to sign up for the user as the black background color contrasts the whitesmoke form
+  - The sign up section collects name, surname, email address
+  - There is three buttons where the user's choice can be submit (City, Outdoor or both)
+  - Easy interface to sign up for the user as the black background color contrasts the whitesmoke form
  
  
  <img width="1428" alt="Capture d’écran 2022-07-06 à 21 09 51" src="https://user-images.githubusercontent.com/107476894/177625169-09f6d3c3-3cb5-4802-8322-f04ee61a8b3f.png">
+
+
+- **The Meetup section** 
+  
+  - An elaborate section where the meetup is displayed in a really intuitive, organized and informative way
+  - The model for this section is Love running project where the essentials are well done.
+  - Fontawesome helped to realise a designed section with visibility and illustrative background image of downtown Berlin
+
+
+<img width="1438" alt="Capture d’écran 2022-07-06 à 22 09 36" src="https://user-images.githubusercontent.com/107476894/177634429-88d68acf-ba00-478e-adc8-f0773b52976a.png">
+
+
+- **The Contact section**
+
+  - The contact section provides all the user needs in order to get in touch as street address, email address, phone number.
+  - This section includes the main social media links as facebook, Twitter, Youtube, Instagram. Very usefull.
+  
+  
+  <img width="1432" alt="Capture d’écran 2022-07-06 à 22 23 09" src="https://user-images.githubusercontent.com/107476894/177636488-2ff5e2b9-cb76-4dee-8a96-044d68b22345.png">
+  
+  
+  
+  ## Testing
+
+  - Page works in several browsers as Firefox, Safari, Chrome
+  - Devtools confirm : the project is responsive on variable screen sizes
+  - Navigation bar is functional and signup section required email address before "Let's Ride"
+
+
+
+
+## Bugs
+
+  -
+  -
+
+## Validators Testing
+
+  - HTML
+  - CSS: confirmed via validator
+  <img width="1389" alt="Capture d’écran 2022-07-06 à 22 03 14" src="https://user-images.githubusercontent.com/107476894/177642100-730b4f66-d3d4-4a50-beed-a463db40d755.png">
+
+ 
+ 
+ 
+  - Accessibility: confirmed via Lighthouse
+  
+  
+  <img width="563" alt="Capture d’écran 2022-07-06 à 23 00 01" src="https://user-images.githubusercontent.com/107476894/177642276-256b9177-234e-4d7e-a27f-e663e3ff2495.png">
