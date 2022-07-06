@@ -103,3 +103,24 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   
   
   <img width="563" alt="Capture d’écran 2022-07-06 à 23 00 01" src="https://user-images.githubusercontent.com/107476894/177642276-256b9177-234e-4d7e-a27f-e663e3ff2495.png">
+  
+  
+  
+  ## Deployment
+
+  -
+  -
+  -
+
+
+## Credits
+
+ **Content**
+
+   -
+   -
+
+ **Media** 
+
+   -
+   -  
