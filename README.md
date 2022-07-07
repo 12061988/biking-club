@@ -122,7 +122,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
  **Content**
 
-   - Some codes were taken from Love Runnning Project.
+   - Some codes (Meetup section) were taken from Love Runnning Project.
    
  **Media** 
 
