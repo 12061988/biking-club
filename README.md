@@ -45,7 +45,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
 - **The Sign Up form** 
 
-  - The sign up section collects name, surname, email address
+  - The sign up section collects first name, last rname, email address
   - There is three buttons where the user's choice can be submit (City, Outdoor or both)
   - Easy interface to sign up for the user as the black background color contrasts the whitesmoke form
  
@@ -111,9 +111,11 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   
   ## Deployment
 
-  -
-  -
-  -
+  - The site was deployed to Github pages :
+  - First: in the Github repository, navigates to the Settings Tab
+  - And, from the source section drop-down menu, select the master Branch
+  - Finally: once the master branch has been selected, the page provided the link to the completed website
+  
 
 
 ## Credits
