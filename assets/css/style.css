@@ -132,11 +132,16 @@ h1, h2 {
 
 #contact {
     margin-top: 50px;
-    background-color:black ;
-    color: whitesmoke;
+    background-image:url("../images/contact-cover.jpeg");
+    color: greenyellow;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 
 }
 
