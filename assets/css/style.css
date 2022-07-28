@@ -107,7 +107,7 @@ h1, h2 {
 #sign-up{
     margin-top: 70px;
     background-color:black ;
-    color: whitesmoke;
+    color: orange;
     text-align: center;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -134,7 +134,7 @@ h1, h2 {
 
 
 #times {
-    background-image:url("../images/meetup-image.jpeg");
+    background-image:url("../images/Meetup_image2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -143,14 +143,14 @@ h1, h2 {
 }
 
 #times div {
-    color: #fafafa;
+    color: orange;
     background-color: rgba(0, 0, 0, .6);
     width:20%;
     height:300px;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid black;
     box-sizing:border-box;
 }
 
