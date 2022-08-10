@@ -105,8 +105,8 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - Accessibility: confirmed via Lighthouse
   
   
-  <img width="563" alt="Capture d’écran 2022-07-06 à 23 00 01" src="https://user-images.githubusercontent.com/107476894/177642276-256b9177-234e-4d7e-a27f-e663e3ff2495.png">
-  
+  <img width="854" alt="Capture d’écran 2022-08-10 à 15 48 07" src="https://user-images.githubusercontent.com/107476894/183917981-68da7af3-9ae6-453a-b55f-7acb7e066c66.png">
+
   
   
   ## Deployment
@@ -123,8 +123,10 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
  **Content**
 
    - Some codes (Meetup section) were taken from Love Runnning Project.
+   - Youtube tutorials 
    
  **Media** 
 
    - Fontawesome
    - Pexels
+   - Google Fonts
