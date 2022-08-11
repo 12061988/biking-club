@@ -53,8 +53,7 @@ Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Ma
 - **The Sign Up form** 
 
   - The sign up section collects first name, last rname, email address
-  - There is three buttons where the user's choice can be submit (City, Outdoor or both)
-  - Easy interface to sign up for the user as the black background color contrasts the whitesmoke form
+  - Easy interface to sign up for the user as the black background color contrasts the orange fonts and whitesmoke form
  
  
  <img width="1343" alt="Capture d’écran 2022-08-11 à 13 32 42" src="https://user-images.githubusercontent.com/107476894/184124408-f0966548-48d8-4de0-abb2-596be44997b4.png">
@@ -64,7 +63,7 @@ Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Ma
   
   - An elaborate section where the meetup is displayed in a really intuitive, organized and informative way
   - The model for this section is Love running project where the essentials are well done.
-  - Fontawesome helped to realise a designed section with visibility and illustrative background image of downtown Berlin
+  - Fontawesome helped to realise a designed section with visibility and illustrative background image of a dynamic biker.
 
 
 <img width="1350" alt="Capture d’écran 2022-08-11 à 13 27 54" src="https://user-images.githubusercontent.com/107476894/184123630-ec45dca4-7d80-4078-baaf-f6ed6f31117a.png">
