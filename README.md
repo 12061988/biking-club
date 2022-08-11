@@ -112,7 +112,10 @@ _ Problem solved width the addition of a Google map at end of our web page
 ## Validators Testing
 
   - HTML
+ <img width="1341" alt="Capture d’écran 2022-08-11 à 16 13 03" src="https://user-images.githubusercontent.com/107476894/184154510-8188921d-a046-4a06-837e-77b0d664b618.png">
+
   - CSS: confirmed via validator
+
   <img width="1389" alt="Capture d’écran 2022-07-06 à 22 03 14" src="https://user-images.githubusercontent.com/107476894/177642100-730b4f66-d3d4-4a50-beed-a463db40d755.png">
 
  
