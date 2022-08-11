@@ -60,7 +60,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - Fontawesome helped to realise a designed section with visibility and illustrative background image of downtown Berlin
 
 
-<img width="1438" alt="Capture d’écran 2022-07-06 à 22 09 36" src="https://user-images.githubusercontent.com/107476894/177634429-88d68acf-ba00-478e-adc8-f0773b52976a.png">
+<img width="1350" alt="Capture d’écran 2022-08-11 à 13 27 54" src="https://user-images.githubusercontent.com/107476894/184123630-ec45dca4-7d80-4078-baaf-f6ed6f31117a.png">
 
 
 - **The Contact section**
@@ -91,6 +91,15 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - Google.de refused to open the long Google map link shortened on Bitly
   
   <img width="246" alt="Capture d’écran 2022-07-06 à 23 04 38" src="https://user-images.githubusercontent.com/107476894/177643006-93feda39-0f6e-4dae-beb5-5ff58bf1c9ed.png">
+  
+  
+  
+## Fixed Bugs
+
+_ Problem solved width the addition of a Google map at end of our web page
+<img width="903" alt="Capture d’écran 2022-08-11 à 13 25 34" src="https://user-images.githubusercontent.com/107476894/184123223-15e33cad-5eab-4c6a-9d2b-ff5891f64197.png">
+
+
 
 
 ## Validators Testing
