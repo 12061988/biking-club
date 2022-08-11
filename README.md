@@ -40,7 +40,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - The user can have concise and precise informations about our activities.
 
 
-<img width="1432" alt="Capture d’écran 2022-07-06 à 20 57 06" src="https://user-images.githubusercontent.com/107476894/177623096-651cf976-15c3-40f0-b465-8b31ca891be0.png">
+<img width="1371" alt="Capture d’écran 2022-08-11 à 13 29 34" src="https://user-images.githubusercontent.com/107476894/184123987-a4f632bb-3e52-40dc-bc84-503ff30aea97.png">
 
 
 - **The Sign Up form** 
