@@ -38,9 +38,16 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - The About Us section is a clear and detailed introduction unit where we give the main information about our community.
   - included in a short description of our identity, place, intentions and goal.
   - The user can have concise and precise informations about our activities.
+  - Illustratrive video displayed on the web page in order to perform some motion, dynamics and styled welcome page.(
+Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Marketing Video)
 
 
 <img width="1371" alt="Capture d’écran 2022-08-11 à 13 29 34" src="https://user-images.githubusercontent.com/107476894/184123987-a4f632bb-3e52-40dc-bc84-503ff30aea97.png">
+
+<img width="1389" alt="Capture d’écran 2022-08-11 à 13 41 08" src="https://user-images.githubusercontent.com/107476894/184125835-8609e466-7b34-42bb-a9ff-29d28e9b3f84.png">
+
+
+
 
 
 - **The Sign Up form** 
@@ -50,7 +57,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - Easy interface to sign up for the user as the black background color contrasts the whitesmoke form
  
  
- <img width="1428" alt="Capture d’écran 2022-07-06 à 21 09 51" src="https://user-images.githubusercontent.com/107476894/177625169-09f6d3c3-3cb5-4802-8322-f04ee61a8b3f.png">
+ <img width="1343" alt="Capture d’écran 2022-08-11 à 13 32 42" src="https://user-images.githubusercontent.com/107476894/184124408-f0966548-48d8-4de0-abb2-596be44997b4.png">
 
 
 - **The Meetup section** 
@@ -69,9 +76,13 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
   - This section includes the main social media links as facebook, Twitter, Youtube, Instagram. Very usefull.
   
   
-  <img width="1432" alt="Capture d’écran 2022-07-06 à 22 23 09" src="https://user-images.githubusercontent.com/107476894/177636488-2ff5e2b9-cb76-4dee-8a96-044d68b22345.png">
+  <img width="1367" alt="Capture d’écran 2022-08-11 à 13 34 53" src="https://user-images.githubusercontent.com/107476894/184124761-cc8cca17-b971-482a-961f-7209a04012f9.png">
+
+  <img width="903" alt="Capture d’écran 2022-08-11 à 13 25 34" src="https://user-images.githubusercontent.com/107476894/184124843-d13b6262-3990-48ae-ba91-56b3fdc96e78.png">
   
-  
+  <img width="1370" alt="Capture d’écran 2022-08-11 à 13 36 27" src="https://user-images.githubusercontent.com/107476894/184124925-ff03da32-616a-4f46-a69a-168dc6fb0ee7.png">
+
+
   
   ## Testing
 
@@ -84,10 +95,7 @@ A bike club culture for people who love cycling in the city of Berlin. As the ci
 
 ## Bugs
 
-  - Impossible to open Am i responsive? although the test works perfectly on Devtools
-  
-  <img width="772" alt="Capture d’écran 2022-07-07 à 09 45 42" src="https://user-images.githubusercontent.com/107476894/177720123-0b8c1de0-bb1b-47c8-8e3d-7f082aa35227.png">
-
+ 
   - Google.de refused to open the long Google map link shortened on Bitly
   
   <img width="246" alt="Capture d’écran 2022-07-06 à 23 04 38" src="https://user-images.githubusercontent.com/107476894/177643006-93feda39-0f6e-4dae-beb5-5ff58bf1c9ed.png">
