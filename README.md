@@ -52,11 +52,11 @@ Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Ma
 
 - **The Sign Up form** 
 
-  - The sign up section collects first name, last rname, email address
+  - The sign up section collects first name, last name, email address
   - Easy interface to sign up for the user as the black background color contrasts the orange fonts and whitesmoke form
  
  
- <img width="1343" alt="Capture d’écran 2022-08-11 à 13 32 42" src="https://user-images.githubusercontent.com/107476894/184124408-f0966548-48d8-4de0-abb2-596be44997b4.png">
+ <img width="1375" alt="Capture d’écran 2022-08-12 à 16 27 09" src="https://user-images.githubusercontent.com/107476894/184374995-7825388c-493d-4719-8d06-03d60e39d6a4.png">
 
 
 - **The Meetup section** 
@@ -103,7 +103,7 @@ Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Ma
   
 ## Fixed Bugs
 
-_ Problem solved width the addition of a Google map at end of our web page
+- Problem solved with the addition of a Google map at end of our web page
 <img width="903" alt="Capture d’écran 2022-08-11 à 13 25 34" src="https://user-images.githubusercontent.com/107476894/184123223-15e33cad-5eab-4c6a-9d2b-ff5891f64197.png">
 
 
@@ -111,7 +111,7 @@ _ Problem solved width the addition of a Google map at end of our web page
 
 ## Validators Testing
 
-  - HTML
+  - HTML: confirmed via validator
  <img width="1341" alt="Capture d’écran 2022-08-11 à 16 13 03" src="https://user-images.githubusercontent.com/107476894/184154510-8188921d-a046-4a06-837e-77b0d664b618.png">
 
   - CSS: confirmed via validator
