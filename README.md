@@ -75,9 +75,8 @@ Trinity Animation Project | 3D Triathlon Bike Commercial - High Tech Animated Ma
   - This section includes the main social media links as facebook, Twitter, Youtube, Instagram. Very usefull.
   
   
-  <img width="1367" alt="Capture d’écran 2022-08-11 à 13 34 53" src="https://user-images.githubusercontent.com/107476894/184124761-cc8cca17-b971-482a-961f-7209a04012f9.png">
+  <img width="1316" alt="Capture d’écran 2022-09-29 à 15 54 33" src="https://user-images.githubusercontent.com/107476894/193051378-e9e8ec3d-d570-4a35-829c-5418c2c24cf0.png">
 
-  <img width="903" alt="Capture d’écran 2022-08-11 à 13 25 34" src="https://user-images.githubusercontent.com/107476894/184124843-d13b6262-3990-48ae-ba91-56b3fdc96e78.png">
   
   <img width="1370" alt="Capture d’écran 2022-08-11 à 13 36 27" src="https://user-images.githubusercontent.com/107476894/184124925-ff03da32-616a-4f46-a69a-168dc6fb0ee7.png">
 
